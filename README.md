@@ -1,5 +1,4 @@
 ### Oi!!! Eu sou a Natália.
-Seja bem vindo(a).
 
 <div align="center">
   <a href="https://github.com/natspindola">
